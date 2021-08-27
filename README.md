@@ -1,2 +1,2 @@
 # LCD_Game
-Arduio LED game using joysticks
+Arduino LED game using joysticks
